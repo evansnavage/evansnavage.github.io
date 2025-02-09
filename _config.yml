@@ -28,11 +28,12 @@ github_username:  evansnavage
 
 header_pages:
   - index.md
-  - about.md
+  - resume.md
+  - portfolio.md
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
-style: light
+theme: jekyll-theme-console
+style: dark
 plugins:
   - jekyll-feed
 
