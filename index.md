@@ -11,9 +11,9 @@ title: "evan/"
 
 I'm some sort of <span class = "linear-text-gradient">software engineer</span>.
 
-I'm a student at RIT, simultaneously pursuing a <span class = "linear-text-gradient">Bachelors</span> and <span class = "linear-text-gradient">Masters</span> in Software Engineering in my second year.
+I'm a student at RIT, in my second year of simultaneously pursuing a <span class = "linear-text-gradient">Bachelors</span> and <span class = "linear-text-gradient">Masters</span> in Software Engineering.
 
-I'm looking for a full-time paid internship or co-op between May 2025 and August 2026 (That's 15 months).
+I'm looking for a full-time paid internship or co-op between May 2025 and August 2026 (That's potentially 15ish months).
 
 I'm pretty good at **Python** and **Java**;
 Plenty adequate in **C**, and **Javascript**;
